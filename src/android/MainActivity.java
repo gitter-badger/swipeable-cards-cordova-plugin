@@ -11,9 +11,9 @@ import android.webkit.JavascriptInterface;
 import android.webkit.WebView;
 import android.widget.Toast;
 
-import com.andtinder.model.CardModel;
-import com.andtinder.view.CardContainer;
-import com.andtinder.view.SimpleCardStackAdapter;
+import com.digitalvibes.swipeCards.model.CardModel;
+import com.digitalvibes.swipeCards.view.CardContainer;
+import com.digitalvibes.swipeCards.view.SimpleCardStackAdapter;
 import org.apache.cordova.*;
 import org.json.JSONObject;
 import org.json.JSONException;

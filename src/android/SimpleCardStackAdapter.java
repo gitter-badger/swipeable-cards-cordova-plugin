@@ -1,4 +1,4 @@
-package com.andtinder.view;
+package com.digitalvibes.swipeCards.view;
 
 import android.content.Context;
 import android.content.res.Resources;
@@ -11,7 +11,7 @@ import android.view.ViewGroup;
 import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.TextView;
-import com.andtinder.model.CardModel;
+import com.digitalvibes.swipeCards.model.CardModel;
 import com.digitalvibes.swipeCards.MainActivity;
 
 import java.io.InputStream;

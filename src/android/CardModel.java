@@ -1,11 +1,11 @@
-package com.andtinder.model;
+package com.digitalvibes.swipeCards.model
 
 import android.content.Intent;
 import android.graphics.Bitmap;
 import android.graphics.drawable.BitmapDrawable;
 import android.graphics.drawable.Drawable;
 
-import com.andtinder.view.CardContainer;
+import com.digitalvibes.swipeCards.view.CardContainer;
 
 public class CardModel {
 

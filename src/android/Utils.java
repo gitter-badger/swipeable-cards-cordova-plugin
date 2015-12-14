@@ -1,4 +1,4 @@
-package com.andtinder;
+package com.digitalvibes.swipeCards;
 
 public class Utils {
 

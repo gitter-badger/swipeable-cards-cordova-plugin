@@ -1,8 +1,8 @@
-package com.andtinder.view;
+package com.digitalvibes.swipeCards.view;
 
 import android.widget.BaseAdapter;
 
-import com.andtinder.model.CardModel;
+import com.digitalvibes.swipeCards.model.CardModel;
 
 import java.util.ArrayList;
 import java.util.Collection;

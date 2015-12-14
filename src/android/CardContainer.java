@@ -1,4 +1,4 @@
-package com.andtinder.view;
+package com.digitalvibes.swipeCards.view;
 
 import android.animation.Animator;
 import android.animation.AnimatorListenerAdapter;
@@ -24,8 +24,8 @@ import android.view.animation.AccelerateInterpolator;
 import android.view.animation.LinearInterpolator;
 import android.widget.AdapterView;
 import android.widget.ListAdapter;
-import com.andtinder.model.CardModel;
-import com.andtinder.model.Orientations.Orientation;
+import com.digitalvibes.swipeCards.model.CardModel;
+import com.digitalvibes.swipeCards.model.Orientations.Orientation;
 import com.digitalvibes.swipeCards.MainActivity;
 
 import java.util.Random;

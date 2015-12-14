@@ -1,4 +1,4 @@
-package com.andtinder.model;
+package com.digitalvibes.swipeCards.model;
 
 public class Likes {
 	 public enum Like {
